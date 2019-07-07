@@ -1,0 +1,14 @@
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\SDPlugins_Owner Checker.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\SDPlugins_Owner Checker.pdb
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\Assembly-CSharp.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\PlayerInfoLib.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\Rocket.Unturned.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\UnityEngine.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\obj\Debug\OwnerChecker.csprojAssemblyReference.cache
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\obj\Debug\OwnerChecker.csproj.CoreCompileInputs.cache
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\obj\Debug\OwnerChecker.csproj.CopyComplete
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\obj\Debug\SDPlugins_Owner Checker.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\obj\Debug\SDPlugins_Owner Checker.pdb
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\educatalan02\source\repos\AdminPanel\Owner-Checker-FIX\bin\Debug\UnityEngine.PhysicsModule.dll
